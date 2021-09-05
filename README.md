@@ -27,7 +27,7 @@ The Transaction have the following attributes
   
 About Me :
 
-I am currently pursuing my MCA and I am a final year student looking for interships in Data Science or a Computer science background work.
-These are my social handles
-LinkedIN - https://www.linkedin.com/in/abeezer-golwala/
+I am currently pursuing my MCA and I am a final year student looking for internships in Data Science or a Computer science background work.
+These are my contact details:
+LinkedIn - https://www.linkedin.com/in/abeezer-golwala/
 Email Id - abeezergolwala98@gmail.com
